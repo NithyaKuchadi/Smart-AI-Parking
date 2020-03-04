@@ -1,6 +1,6 @@
 # Smart-AI-Parking
 
-[Web Application that calculates Dynamic Parking price based on the no. of minutes the Vehicle is parked.]:https://github.com/NithyaKuchadi/GRUBHUB-Simulation-using-MERN-Stack/blob/master/README.md
+Web Application that calculates Dynamic Parking price based on the no. of minutes the Vehicle is parked.
 
 Used OpenAlpr for LicenseplateRecognition.
 
